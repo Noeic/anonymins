@@ -1,1 +1,1 @@
-alert('kkm213')
+alert(1)
